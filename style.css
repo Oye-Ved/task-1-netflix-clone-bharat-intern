@@ -1,0 +1,19 @@
+#nav1{
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 0, 0);
+    font-size:xxx-large;
+    padding: 0%;
+    
+}
+.part1{
+    display:flexbox;
+ 
+    background-image:url("part1\ image\ .jpg");
+    background-size: cover;
+   
+}
+.btn{
+    background-color: red;
+    
+}
+
